@@ -1,5 +1,5 @@
 {
-  "name": "social-network-API",
+  "name": "social-network-api",
   "version": "1.0.0",
   "description": "NoSQL Challenge",
   "main": "server.js",
